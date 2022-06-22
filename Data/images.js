@@ -60,12 +60,11 @@ const  images = [
     correct_answer:"morgan freeman"
    },
    {
-    pic : "",
-    correct_answer:""
+    pic : "https://fr.web.img6.acsta.net/pictures/15/05/15/16/30/134942.jpg",
+    correct_answer:"emma stone"
    },
-   {
-    pic : "",
-    correct_answer:""
+   {"http://images2.wikia.nocookie.net/__cb20121025201422/disney/images/7/7d/Tim_Burton.jpg"
+    correct_answer:"tim burton"
    },
    {
     pic : "",
