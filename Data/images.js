@@ -56,8 +56,8 @@ const  images = [
     correct_answer:"staline"
    },
    {
-    pic : "",
-    correct_answer:""
+    pic : "https://fr.web.img2.acsta.net/pictures/18/09/20/15/21/3966896.jpg",
+    correct_answer:"morgan freeman"
    },
    {
     pic : "",
