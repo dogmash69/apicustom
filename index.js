@@ -51,7 +51,6 @@ app.use('/api/images', (req, res)=> {
   res.status(200).json(images)
 });
 
-
 // starter server
 app.listen(PORT, () => {
   console.log(`Listening on ${baseUrl}`);
