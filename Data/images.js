@@ -67,16 +67,16 @@ const  images = [
      correct_answer:"tim burton"
     },
     {
-     pic : "",
-     correct_answer:"aa"
+     pic : "https://imgur.com/fu9EDQw.jpg",
+     correct_answer:"julien omont"
     },
     {
-     pic : "",
-     correct_answer:"bb"
+     pic : "https://imgur.com/CTGTgEh.jpg",
+     correct_answer:"marion corbel"
     },
     {
-     pic : "",
-     correct_answer:"cc"
+     pic : "https://imgur.com/ajIaW7c.jpg",
+     correct_answer:"reynald prudent"
     }
  ]
  export default images
