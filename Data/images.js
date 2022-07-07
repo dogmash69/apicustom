@@ -75,7 +75,7 @@ const  images = [
      correct_answer:"marion corbel"
     },
     {
-     pic : "https://imgur.com/ajIaW7c.jpg",
+     pic : "https://i.imgur.com/3OJi0kd.png",
      correct_answer:"reynald prudent"
     }
  ]

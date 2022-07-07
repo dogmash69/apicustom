@@ -7,6 +7,7 @@ import geo from './Data/geo.js';
 import film from './Data/film.js';
 import sport from './Data/sport.js';
 import images from './Data/images.js';
+import musique from './Data/musique.js';
 
 const baseUrl = 'localhost:5050/api'
 const PORT = 5050;
@@ -49,6 +50,11 @@ app.use('/api/sport', (req, res)=> {
 app.use('/api/images', (req, res)=> {
  
   res.status(200).json(images)
+});
+
+app.use('/api/musique', (req, res)=> {
+ 
+  res.status(200).json(musique)
 });
 
 // starter server
